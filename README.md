@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning NuxtJS (Vue)
 - 📫 How to reach me <a href="mailto:raymondk.yudiva@gmail.com"> raymondk.yudiva@gmail.com </a>
 
-Languanges And Tools
+Learning Languanges And Tools
 
 <code>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/166e25cd40949ac9faa680e46033460183f924a4d0ef2a5ff059b34e3c350446/68747470733a2f2f73616e7472696b6f64696e672e636f6d2f73746f726167652f63617465676f726965732f5a39576a74746a456d637431467a776b4644775356794b707668547142576b4a5551413143754c632e706e67"><img height="50" src="https://camo.githubusercontent.com/166e25cd40949ac9faa680e46033460183f924a4d0ef2a5ff059b34e3c350446/68747470733a2f2f73616e7472696b6f64696e672e636f6d2f73746f726167652f63617465676f726965732f5a39576a74746a456d637431467a776b4644775356794b707668547142576b4a5551413143754c632e706e67" data-canonical-src="https://santrikoding.com/storage/categories/Z9WjttjEmct1FzwkFDwSVyKpvhTqBWkJUQA1CuLc.png" style="max-width: 100%;"></a>
