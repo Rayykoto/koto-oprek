@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning NuxtJS (Vue)
-- 📫 How to reach me <a href="mailto:raymondk.yudiva@gmail.com"> Here </a>
+- 📫 How to reach me <a href="mailto:raymondk.yudiva@gmail.com"> raymondk.yudiva@gmail.com </a>
 
 <!---
 koto-oprek/koto-oprek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
