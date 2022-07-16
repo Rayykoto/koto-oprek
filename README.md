@@ -10,6 +10,16 @@ Languanges And Tools
 
 <img height="50" src="https://camo.githubusercontent.com/166e25cd40949ac9faa680e46033460183f924a4d0ef2a5ff059b34e3c350446/68747470733a2f2f73616e7472696b6f64696e672e636f6d2f73746f726167652f63617465676f726965732f5a39576a74746a456d637431467a776b4644775356794b707668547142576b4a5551413143754c632e706e67" data-canonical-src="https://santrikoding.com/storage/categories/Z9WjttjEmct1FzwkFDwSVyKpvhTqBWkJUQA1CuLc.png" style="max-width: 100%;">
 
+<img height="50" src="https://camo.githubusercontent.com/3138319a8a915e754e1a7beac21dd687be8e1da85017543cd118a7d968120f6a/68747470733a2f2f73616e7472696b6f64696e672e636f6d2f73746f726167652f63617465676f726965732f7a75777a4b624168623639316c7032513143495961464b32773061354d6345316d6365444f7352732e706e67" data-canonical-src="https://santrikoding.com/storage/categories/zuwzKbAhb691lp2Q1CIYaFK2w0a5McE1mceDOsRs.png" style="max-width: 100%;">
+
+<img height="50" src="https://camo.githubusercontent.com/0e827006d11077a7b6d7c85cd5ab26626e81174a07cd199b0f7f4a0e8a3b5bd6/68747470733a2f2f73616e7472696b6f64696e672e636f6d2f73746f726167652f63617465676f726965732f596f5370783241416b36354a49357a39777369594d59357a376933765743653036565550334643302e706e67" data-canonical-src="https://santrikoding.com/storage/categories/YoSpx2AAk65JI5z9wsiYMY5z7i3vWCe06VUP3FC0.png" style="max-width: 100%;">
+
+<img height="50" src="https://camo.githubusercontent.com/0e827006d11077a7b6d7c85cd5ab26626e81174a07cd199b0f7f4a0e8a3b5bd6/68747470733a2f2f73616e7472696b6f64696e672e636f6d2f73746f726167652f63617465676f726965732f596f5370783241416b36354a49357a39777369594d59357a376933765743653036565550334643302e706e67" data-canonical-src="https://santrikoding.com/storage/categories/YoSpx2AAk65JI5z9wsiYMY5z7i3vWCe06VUP3FC0.png" style="max-width: 100%;">
+
+<img height="50" src="https://camo.githubusercontent.com/403411bd7b62cc76eaf9ab6769efbbd73204535c961ac305e96088eb7a61875a/68747470733a2f2f73616e7472696b6f64696e672e636f6d2f73746f726167652f63617465676f726965732f69514d556969546b6c6f435369716b336c5377705774786e4771596a626641426a583274416c484d2e706e67" data-canonical-src="https://santrikoding.com/storage/categories/iQMUiiTkloCSiqk3lSwpWtxnGqYjbfABjX2tAlHM.png" style="max-width: 100%;">
+
+<img height="50" src="https://camo.githubusercontent.com/8817ce27078f9d725c7e33a7c884b6bbec0dc30c7a7836466627df47aa11bd9a/68747470733a2f2f73616e7472696b6f64696e672e636f6d2f73746f726167652f63617465676f726965732f4d47367239726d784a71596f5a417a5a6937355565464f36645674447770796f75394572366874702e706e67" data-canonical-src="https://santrikoding.com/storage/categories/MG6r9rmxJqYoZAzZi75UeFO6dVtDwpyou9Er6htp.png" style="max-width: 100%;">
+
 <!---
 koto-oprek/koto-oprek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
